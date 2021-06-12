@@ -1,0 +1,55 @@
+
+body {
+  background-color: #dbe6fd;
+  text-align: center;
+
+}
+h1 {
+  font-family: 'Raleway', sans-serif;
+  color: #293b5f;
+  font-size: 100px;
+  padding: 0px;
+}
+h2 {
+  font-family: 'Raleway', sans-serif;
+  color: #47597e;
+  font-size: 40px;
+  font-family:
+}
+
+p {
+  font-style: 10px;
+}
+
+a {
+  font-size: 25px;
+  padding: 8px;
+  color: black;
+
+}
+a :hover {
+  color: grey;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+#learn-more {
+  font-size: 15px;
+}
+
+#profile-pic {
+  border-radius: 50%;
+  height: 200px;
+  width: auto;
+
+}
+
+.card {
+  background: white;
+  margin: 30px;
+  border-radius: 4px;
+  box-shadow: 2px 2px lightgrey;
+}
